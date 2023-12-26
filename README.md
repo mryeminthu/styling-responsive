@@ -12,7 +12,7 @@ As part of my certification program on Coursera, I've designed this webpage. The
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://mryeminthu.github.io/styling-responsive)
 
 ## 👥 Author <a name="authors"></a>
 
