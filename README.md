@@ -21,3 +21,7 @@ As part of my certification program on Coursera, I've designed this webpage.
 - GitHub: [GitHub](https://github.com/mryeminthu)
 - Twitter: [Twitter](https://twitter.com/mryeminthu)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ye-min-thu-76456a214/)
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- These pictures were from Colleen van Lent for the ['Web Design for Everybody' course.](https://www.coursera.org/specializations/web-design)
