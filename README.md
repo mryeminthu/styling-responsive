@@ -8,7 +8,7 @@
 
 # 📖 [Responsive Homework 2] <a name="about-project"></a>
 
-As part of my certification program on Coursera, I've designed this webpage.
+As part of my certification program on Coursera, I've designed this webpage. The display varies depending on whether you're using a mobile, tablet, or desktop device. Please try adjusting the width to see the different features.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
