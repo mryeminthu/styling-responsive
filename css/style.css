@@ -29,13 +29,27 @@ figure {
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     padding: 10px;
 }
 
 figure img {
     width: 100%;
     height: auto;
+}
+
+figcaption {
+    background-color: #3B71CA;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+figcaption:hover {
+    background-color: #2e589c;
 }
 
 @media (min-width: 772px) {
