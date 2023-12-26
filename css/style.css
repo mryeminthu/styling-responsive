@@ -36,6 +36,27 @@ figure img {
     height: auto;   
 }
 
-p , figure {
+p, figure {
     font-size: 25px;
+}
+
+@media (min-width: 772px) {
+    .grid {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    figure {
+        width: calc(46% - 10px); 
+        margin-right: 15px;
+        padding: 10px; 
+    }
+
+    figure img {
+        border-radius: 50%;  
+    }
+
+    figure:last-child {
+        width: 100%; 
+    }
 }
